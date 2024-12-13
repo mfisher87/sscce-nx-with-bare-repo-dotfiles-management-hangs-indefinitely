@@ -1,0 +1,8 @@
+{
+  "name": "foo",
+  "version": "0.0.1",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "nx": "20.2.2"
+  }
+}
